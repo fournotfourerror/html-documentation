@@ -4,12 +4,16 @@
 * Divisions (`div`)
 * Lists
   * Ordered (`ol`)
+  	* tyes
+		* `1` (Numerical order)
+		* `i` or `I` (Roman order)
+		* `a` or `A` (Alphebet order)
   * Un-ordered (`ul`)
-   * List-style-type:
-    * circle
-    * disc (`default`)
-    * square
-    * none
+  	* List-style-type:
+    		* circle
+    		* disc (`default`)
+    		* square
+    		* none
     
     Example
 ```html
