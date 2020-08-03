@@ -8,8 +8,18 @@
 		* `1` (Numerical order)
 		* `i` or `I` (Roman order)
 		* `a` or `A` (Alphebet order)
+		
+	Example:
+```html
+		<ol type="a">
+			<li> Coffee </li>
+			<li> Tea </li>
+			<li> Milk </li>
+		</ol>
+```
+
   * Un-ordered (`ul`)
-  	* List-style-type:
+  	* List-style-type
     		* circle
     		* disc (`default`)
     		* square
