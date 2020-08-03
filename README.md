@@ -20,8 +20,9 @@
 
   * Un-ordered (`ul`)
   	* List-style-type
-    		* circle
-    		* disc (`default`)
+	
+		* circle
+		* disc (`default`)
     		* square
     		* none
     
